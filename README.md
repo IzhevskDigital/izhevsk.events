@@ -1,5 +1,3 @@
-# ASP.NET Core Vue Starter
-
 ## Project setup
 ```
 npm install
