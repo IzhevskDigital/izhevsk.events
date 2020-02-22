@@ -9,6 +9,7 @@
     </v-content>
     <v-footer app>
       <span>&nbsp;Izhevk IT Community&nbsp;&copy;&nbsp;2020</span>
+      <span>https://github.com/IzhevskDigital/izhevsk.events</span>
     </v-footer>
   </v-app>
 </template>
